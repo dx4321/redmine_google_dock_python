@@ -1,0 +1,17 @@
+# Для работоспособности программы конфиг должен называться config.yaml
+
+proxy:
+  proxy_host:
+  proxy_port:
+  proxy_user:
+  proxy_pass:
+
+oauth2client_service_account_file: google_key.json
+google_url: https://docs.google.com/spreadsheets/d/
+
+redmine_host:
+redmine_db:
+redmine_user:
+redmine_password:
+redmine_role:
+
